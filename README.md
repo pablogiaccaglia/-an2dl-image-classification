@@ -5,8 +5,6 @@
 - 🗄️ [Dataset](#%EF%B8%8F-dataset)
 - ⚙ [System requirements️](#-system-requirements)
 - 🚀 [Setup instructions](#-setup-instructions)
-- 📃 [Project specification](Project%20Proposals.pdf)
-- 🗣️ [Presentation](Presentation.pdf)
 - 📜 [Report](Report.pdf)
 - 🤵 [Authors](#-authors)
 - 📝 [License](#-license)
