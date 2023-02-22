@@ -57,7 +57,7 @@ Our best model reached an accuracy of **95%** on the validation set and **94.46%
 F1-score table on the test set:
 ||Species 1|Species 2|Species 3|Species 4|Species 5|Species 6|Species 7|Species 8|
 |---|---|---|---|---|---|---|---|---|
-|**F1-score**|0.8909|0.9477|0.9753|0.9451|0.9526|0.9535|0.9790|0.9130|
+|**<font size = "2">F1-score</font>**|0.8909|0.9477|0.9753|0.9451|0.9526|0.9535|0.9790|0.9130|
 
 Final position: **2** out of **300**.
 
